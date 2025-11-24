@@ -1,0 +1,11 @@
+*.gem
+*.css
+*.css.map
+.bundle
+.jekyll-cache
+.jektex-cache
+.sass-cache
+_site
+vendor
+Gemfile.lock
+.DS_Store

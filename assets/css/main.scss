@@ -1,0 +1,37 @@
+---
+---
+
+@import "no-style-please";
+@import url("https://fontsapi.zeoseven.com/159/main/result.css");
+
+body {
+  font-size: 18px !important;
+  font-family: "Sarasa Mono SC", monospace !important;
+}
+
+p {
+  text-align: justify;
+}
+
+code {
+  font-size: 18px !important;
+  font-family: "Sarasa Mono SC" !important;
+}
+
+div.highlighter-rouge code {
+  display: block;
+  overflow-x: auto;
+  white-space: pre;
+  padding: 0.1rem;
+}
+
+.archive-list {
+  list-style: none;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+.archive-h2 {
+  margin-top: 1.2rem;
+    margin-bottom: 0.4rem;
+}
